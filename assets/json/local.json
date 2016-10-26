@@ -1,0 +1,19 @@
+{
+     "Hostname":"dsdiscovery",
+     "User":"",
+     "Memory":1024,
+     "MemorySwap":0,
+     "AttachStdin":false,
+     "AttachStdout":true,
+     "AttachStderr":true,
+     "PortSpecs":null,
+     "Privileged": false,
+     "Tty":false,
+     "OpenStdin":false,
+     "StdinOnce":false,
+     "Env":null,
+     "Dns":null,
+     "Image":"jupyter/datascience-notebook",
+     "Networks": ""
+     "Volumes":{"/Users//Users/sobh/Desktop/data": "/home/jovyan/work"}
+}
